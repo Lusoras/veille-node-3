@@ -1,0 +1,15 @@
+ {   
+"QC" : "Québec",
+"ON" : "Ontario",
+"MB" : "Manitoba",
+"SK" : "Saskatchewan",
+"AB" : "Alberta",
+"BC" : "Colombie-Britannique",
+"PE" : "Île-du-Prince-Édouard",
+"NB" : "Nouveau-Brunswick",
+"NU" : "Nunavut",
+"NL" : "Terre-Neuve-et-Labrador",
+"NT" : "Territoires du Nord-Ouest",
+"YT" : "Yukon",
+"NS" : "Nouvelle-Écosse"
+}
